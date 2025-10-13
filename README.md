@@ -15,7 +15,7 @@
         2. **DartPad (Online Dart Editörü):** https://dartpad.dev/
         3. **Dart Dil Turu (Resmi Doküman - Türkçe):** https://dart.dev/guides/language/language-tour
         4. Anlatım: https://www.notion.so/Hafta-1-Mobil-Programlamaya-Giri-ve-Dart-Dilinin-Temelleri-28b4dab0fd2380dc9233cbcc77581e3f?source=copy_link
-## Hafta 2: Flutter'ın Temeli: Widget'lar ve Arayüz Tasarımı
+## Hafta 2: Flutter'ın Temeli: Widget'lar ve Arayüz Tasarımı
     - **Erişilebilir Kaynaklar:**
         1. **Flutter Widget'lara Giriş (Resmi Doküman):** https://docs.flutter.dev/ui/widgets/basics
         2. **Flutter Widget Kataloğu:** https://docs.flutter.dev/ui/widgets
