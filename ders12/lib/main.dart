@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'bloc/app_bloc.dart';
-import 'services/firestore_service.dart';
+import '../services/firestore_service.dart';
 import 'screens/home_screen.dart';
-import 'firebase_options.dart'; // Not: Öğrenciler kendi firebase configlerini buraya koymalı
+// Not: Öğrenciler kendi firebase configlerini buraya koymalı
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
